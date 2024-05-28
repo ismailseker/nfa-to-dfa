@@ -1,0 +1,1 @@
+If you want to input nfa by yourself use "input.py" the other one is just for showing transformation existing one.
